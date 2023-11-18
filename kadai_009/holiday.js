@@ -6,9 +6,9 @@ for(let i=0;i<holidays.length;i++){
   console.log(holidays[i]);
 }
 
-let num=Math.floor(Math.random()*holidays.length);
+let num=0;num<holidays.length;num++
 
-while(num!==0){
-  num=Math.floor(Math.random()*holidays.length);
+while(num!==15){
+  num=num=0;num<holidays.length;num++
   console.log(holidays[num]);
 }
