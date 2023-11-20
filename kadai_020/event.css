@@ -1,0 +1,10 @@
+#text{
+  font-size: 30px;
+  font-weight: bold;
+  display: block;
+}
+#secondtext{
+  font-size: 30px;
+  font-weight: bold;
+  display: none;
+}
