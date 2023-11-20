@@ -6,9 +6,8 @@ for(let i=0;i<holidays.length;i++){
   console.log(holidays[i]);
 }
 
-let num=0;num<holidays.length;num++
-
-while(num!==15){
-  num=num=0;num<holidays.length;num++
+let num=0;
+while(num!==holidays.length){
   console.log(holidays[num]);
-}
+  num++;
+};
