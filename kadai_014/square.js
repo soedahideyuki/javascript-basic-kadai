@@ -1,5 +1,4 @@
 const dubble=(num)=>{
-  console.log(num**2);
+  return num**2
 }
-
-dubble(10);
+  console.log(dubble(10));
